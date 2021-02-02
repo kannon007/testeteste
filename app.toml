@@ -1,0 +1,12 @@
+#config
+
+#邮件发送主题
+symbol = "xrpusdt"
+amount = 12
+
+proxy = true
+
+
+
+
+
