@@ -1,12 +1,7 @@
 #config
 
 #邮件发送主题
-symbol = "xrpusdt"
-amount = 12
+symbols = ["xrpusdt","dotusdt","linkusdt"]
+amounts = [10,10,10]
 
-proxy = true
-
-
-
-
-
+proxy = false
