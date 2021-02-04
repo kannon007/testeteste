@@ -1,9 +1,9 @@
 #config
 
 #邮件发送主题
-symbols = ["xrpusdt","dotusdt","linkusdt"]
-amounts = [10,10,10]
-stopProfit = [1.1,1.05,1.05]
-triggerStopProfit = [1.09,1.04,1.04]
+symbols = ["xrpusdt","dotusdt","linkusdt","ethusdt","eosusdt","ltcusdt"]
+amounts = [10,10,10,10,10,10]
+stopProfit = [1.1,1.05,1.05,1.05,1.05,1.05]
+triggerStopProfit = [1.09,1.04,1.04,1.04,1.04,1.04]
 
 proxy = false
