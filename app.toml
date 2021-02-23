@@ -1,4 +1,11 @@
 #config
+# 火币账号配置
+Host = "api.huobi.pro"
+AccessKey = "9da5595d-5d63c025-524f0d28-zrfc4v5b6n"
+SecretKey = "91cdae09-e9c3502b-14af792c-8f9cd"
+AccountId = "18934674"
+SubUid = 5678
+
 
 #邮件发送主题
 symbols = ["xrpusdt","dotusdt","linkusdt","ethusdt","eosusdt","ltcusdt","dogeusdt","adausdt","sushiusdt","uniusdt"]
@@ -6,4 +13,5 @@ amounts = [10,10,10,10,10,10,10,10,10,10,10]
 stopProfit = [1.05,1.05,1.05,1.05,1.05,1.05,1.05,1.05,1.05,1.05,1.05]
 triggerStopProfit = [1.04,1.04,1.04,1.04,1.04,1.04,1.04,1.04,1.04,1.04,1.04]
 
-proxy = false
+# 代理
+proxy = "http://127.0.0.1:10809"
